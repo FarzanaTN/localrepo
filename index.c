@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void primeNumber(){
-    printf("Function for printing prime numbers");
+    printf("Function for        printing prime numbers");
 }
 
 int main(){
