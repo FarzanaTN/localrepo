@@ -1,5 +1,9 @@
 #include<stdio.h>
 
+void primeNumber(){
+    printf("Function for printing prime numbers");
+}
+
 int main(){
 
     printf("INDEX\n");
